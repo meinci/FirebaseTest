@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775271895926",
+    "project_id": "instaclonejava-ab71c",
+    "storage_bucket": "instaclonejava-ab71c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775271895926:android:c3944201e6fb1631c02057",
+        "android_client_info": {
+          "package_name": "com.mehmet_inci.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775271895926-lb5vres25ahigqobu8v9j7eit12jquc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1xJMAv2axgFSzEcCifVh8eYFtOWYRz9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775271895926-lb5vres25ahigqobu8v9j7eit12jquc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
