@@ -42,21 +42,21 @@
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:layout_marginStart="43dp"
-		android:layout_marginTop="39dp"
+		android:layout_marginTop="120dp"
 		android:onClick="signInClicked"
 		android:text="Sign In "
 		app:layout_constraintStart_toStartOf="parent"
-		app:layout_constraintTop_toBottomOf="@+id/password_text" />
+		app:layout_constraintTop_toBottomOf="@+id/passwordText" />
 
 	<Button
 		android:id="@+id/signup_button"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
-		android:layout_marginTop="44dp"
+		android:layout_marginTop="120dp"
 		android:layout_marginEnd="43dp"
 		android:onClick="signUpClicked"
 		android:text="Sign Up"
 		app:layout_constraintEnd_toEndOf="parent"
-		app:layout_constraintTop_toBottomOf="@+id/password_text" />
+		app:layout_constraintTop_toBottomOf="@+id/passwordText" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
